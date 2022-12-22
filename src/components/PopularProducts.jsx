@@ -3,7 +3,9 @@ import React from 'react'
 const PopularProducts = () => {
   return (
     <div>
-      <h1>asjkdfhakljsdklfjalsjdflkajsldjflaksjdlkfj</h1>
+      <h1>popular products
+        
+      </h1>
     </div>
   )
 }
